@@ -63,3 +63,6 @@ Prioritize a targeted re-engagement campaign for the **At Risk** segment — the
 - `01_data_cleaning.ipynb` — data cleaning & feature engineering
 - `02_exploratory_analysis.ipynb` — EDA, visualizations, and RFM segmentation
 - `customer_segments_rfm.csv` — final output: one row per customer with RFM scores and segment label
+
+
+
