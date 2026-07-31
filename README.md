@@ -46,6 +46,14 @@ A customer segmentation analysis on ~2 years of UK-based online retail transacti
 | New Customers | 451 | Recently started buying, low frequency so far |
 | At Risk | 355 | Previously high-value, gone quiet — win-back candidates |
 
+### Monthly Sales Trend
+![Monthly Sales Trend](img1.png)
+
+*Clear seasonal spikes each November (likely holiday shopping), with December appearing low only because the dataset ends Dec 9, 2011 — not a real decline.*
+
+### Customer Segments
+![Customer Segments](img2.png)
+
 ## 💡 Recommendation
 
 Prioritize a targeted re-engagement campaign for the **At Risk** segment — these customers have a strong historical spending pattern and are more likely to respond to a win-back offer than customers already fully **Lost**.
